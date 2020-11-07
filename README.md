@@ -456,6 +456,7 @@
 * [Istanbul Coders](https://www.youtube.com/channel/UCnrnk2aCRuFillw5PvDjKjA)
 * [Tarık Güney](https://www.youtube.com/channel/UC4I7mk5atVNtFDNI1c8yOWA)
 * [Eser Ozvataf](https://youtube.com/EserOzvataf)
+* [Arin Yazilim](https://www.youtube.com/channel/UCzVB3qcyTd-QGJKY_Hpky5g)
 
 
 ## Italian
